@@ -4,6 +4,31 @@ Guardian Firewall is a comprehensive, real-time grooming risk firewall for live 
 
 ---
 
+## 👤 My Contribution
+
+I was responsible for the **entire frontend user experience of Guardian Firewall**, designing and building the complete web interface for the project.
+
+### Frontend Ownership
+- Built the full frontend application from scratch using **React** and **Vite**
+- Set up and configured the frontend build system, including **Craco** for tooling and compatibility
+- Implemented the main user flows:
+  - Live chat monitoring interface  
+  - Interactive demo showcasing safe and unsafe conversation scenarios  
+  - Guardian alert and risk visualization views
+- Developed reusable UI components for:
+  - Chat messages with inline risk indicators  
+  - Threat meter and safety alerts  
+  - Demo controls and live chat playback
+- Integrated real-time updates using **WebSockets** to reflect changing risk levels during conversations
+- Designed the overall **UI/UX**, focusing on clarity, safety feedback, and usability
+- Styled the application with custom CSS, responsive layouts, and animations
+
+### Team Collaboration
+- **Backend & AI Systems:** Project team  
+  *(FastAPI backend, AI risk detection, and real-time processing)*
+  
+---
+
 ## Table of Contents
 
 - [Key Features](#key-features)
